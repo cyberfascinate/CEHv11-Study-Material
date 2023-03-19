@@ -7,19 +7,6 @@
 
 ## 📢 About this repo
 
-* **Unofficial Study Guide for CEH v11 exam, forked from:**
-* <small>https://github.com/scottymcraig/CEHv11StudyGuide</small> 
-* <small> forked from: https://github.com/Samsar4/CEH-v10-Study-Guide</small> 
-    * **Targetted Changes:**
-        - [+] Modules update
-        - [+] Increased information details in all modules
-        - [+] Practical labs added
-        - [+] Content segregation
-
-* The objective of this repo is to clarify all topics presented on [CEH v11](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/) (ANSI) exam.
-
-## LAST UPDATED ON Nov 5th 2021
-
 ### ⚡︎ **This study guide have some [practical labs] to test your knowledge and learn by doing.**
 ---
 
